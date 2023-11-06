@@ -1,0 +1,199 @@
+html {
+    background-color: #E11364;
+    
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.header-conteiner h1 {
+    align-items: center;
+    background-color: #BC105C;
+    border-right: 2px solid white;
+    border-left: 2px solid white;
+    color: white;
+    display: flex;
+    font-size: 3rem;
+    height: 5rem;
+    justify-content: center;
+    margin-left: 8rem;
+    margin-right: 8rem;
+}
+
+.element-conteiner {
+
+    background-color: #BC105C;
+    margin-left: 8rem;
+    margin-right: 8rem;
+    padding-bottom: 3rem;
+    padding-top: 1px;
+    border-radius: 10px;
+}
+
+.fondo {
+
+
+    background-color: white;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 2.5rem;
+    border-radius: 10px;
+}
+
+
+.sub-title {
+
+    color: #BC105C;
+    display: flex;
+    justify-content: end;
+    border: 0;
+    border-bottom: 1px dashed #BC105C;
+    line-height: 1px;
+    margin-right: 1rem;
+    margin-left: 1rem;
+
+}
+
+.last-title {
+
+    color: #BC105C;
+    display: flex;
+    border: 0;
+    border-bottom: 1px dashed #BC105C;
+    line-height: 1px;
+    margin-right: 1rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
+
+
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+.image-conteiner {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    width: 100%;
+
+}
+
+.i-conteiner {
+
+    display: flex;
+}
+
+.add-information {
+    line-height: 0.5rem;
+    font-size: 0.9rem;
+    margin-right: 1rem;
+    margin-top: 2rem;
+    text-align: end;
+
+}
+
+span {
+
+    color: green;
+
+}
+
+.add-text {
+    margin-top: 4rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    text-align: end;
+}
+
+main {
+
+    margin-top: 3rem;
+
+
+}
+
+form {
+
+    margin-left: 2rem;
+
+}
+
+input {
+
+    border-radius: 1rem;
+    display: block;
+    font-family: sans-serif;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding: 0.3rem;
+    width: 15rem;
+
+}
+
+.images {
+
+    width: 18rem;
+
+}
+
+.form-and-galery {
+
+    display: flex;
+    margin-top: 1rem;
+
+}
+
+.galery-conteiner {
+
+    text-align: center;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    
+}
+
+
+.send-botton {
+
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+
+}
+
+.return-button-container {
+    justify-content: center;
+    display: flex;
+    height: 2 rem;
+    padding: 1rem;
+}
+
+.return-button {
+    color: white;
+    background-color: #2A891F;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    text-decoration: none;
+    padding: 0.5rem;
+
+}
+
+.return-button:hover {
+    background-color: #E11364;
+}
+
+
+footer {
+    background-color: #ffffff69;
+    justify-content: center;
+    border: none;
+    display: flex;
+    align-items: center;
+    margin-left: 8rem;
+    margin-right: 8rem;
+    border-radius: 5px;
+    height: 4rem;
+    font-size: 1rem;
+    color: #FFF;
+    margin-top: 2rem;
+}
